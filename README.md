@@ -1,5 +1,6 @@
 <div align="center">
-```
+
+<pre>
             .------.
            /  ~ ~   \,------.      ______
          ,'  ~ ~ ~  /  (@)   \   ,'      \
@@ -20,9 +21,11 @@
                                     / /  / \  \
                                     `.     |   \
                                       `--------'
+</pre>
 
-```
-<a href="https://github.com/emrbli">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</a>
+### 🔥 Kemal Emre Ballı - Full Stack Developer
+
+[![Website](https://img.shields.io/badge/Website-asset--box.com-00C7B7?style=flat)](http://asset-box.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@emrbli-1DA1F2?style=flat)](https://twitter.com/emrbli)
+
 </div>
