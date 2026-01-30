@@ -1,1 +1,3 @@
-<img src="https://raw.githubusercontent.com/emrbli/emrbli/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://novatorem-git-master-emrblis-projects.vercel.app/api/spotify" />
+</div>
