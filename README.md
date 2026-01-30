@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Emre" />
+<img src="https://raw.githubusercontent.com/emrbli/emrbli/output/github-contribution-grid-snake.svg" />
